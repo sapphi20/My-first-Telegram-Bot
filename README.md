@@ -1,4 +1,4 @@
-# Test Bot for Telegram
+# WoWToken bot for Telegram
 #### English
 
 This is a **Telegram** bot that shows World of Warcraft token price in a specific region indicated by the user.
